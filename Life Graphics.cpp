@@ -65,7 +65,7 @@ void vitaeApp::RenderGrid() {
 		}
 }
 
-void vitaeApp::DrawLine(UINT gx1, UINT gy1, UINT gx2, UINT gy2) {
+void vitaeApp::DrawLine(int gx1, int gy1, int gx2, int gy2) {
 	int x, y, dx, dy, a;
 	float step2, fy, fx;
 	dx = gx2 - gx1;

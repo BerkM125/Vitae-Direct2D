@@ -1,7 +1,7 @@
 #pragma once
 
 #include "resource.h"
-#define GRID_WIDTH 100
+#define GRID_WIDTH 300
 #define SQUARE 1
 #define CIRCLE 2
 #define LINE 3
@@ -31,7 +31,7 @@ class vitaeApp {
             UINT height
         );
         //Cellular graphics functions:
-        void DrawLine(UINT gx1, UINT gy1, UINT gx2, UINT gy2);
+        void DrawLine(int gx1, int gy1, int gx2, int gy2);
         void DrawCell(UINT x, UINT y);
         static LRESULT CALLBACK WndProc(
             HWND hWnd,
