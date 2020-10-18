@@ -825,7 +825,7 @@ INT_PTR CALLBACK vitaeApp::ControlsDialog(HWND hDlg, UINT message, WPARAM wParam
                 char gl[16];
                 int glLong;
                 sprintf_s(gl, "\0");
-                GetDlgItemTextA(hDlg, IDC_EDIT1, gl, 4);
+                GetDlgItemTextA(hDlg, IDC_EDIT1, gl, 8);
                 sscanf_s(gl, "%d", &glLong);
                 pVitaeApp->generationLimit = glLong;
             }
