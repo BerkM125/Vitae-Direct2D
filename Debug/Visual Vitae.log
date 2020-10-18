@@ -1,0 +1,6 @@
+﻿  Visual Vitae.cpp
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(174,1): warning C4996: 'ID2D1Factory::GetDesktopDpi': Deprecated. Use DisplayInformation::LogicalDpi for Windows Store Apps or GetDpiForWindow for desktop apps.
+C:\Windows Kits\10\Include\10.0.18362.0\um\d2d1.h(3355): message : see declaration of 'ID2D1Factory::GetDesktopDpi'
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(381,50): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(387,27): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  Visual Vitae.vcxproj -> C:\mrt\Berkan\VisualStudio\Visual Vitae\Debug\Visual Vitae.exe
