@@ -1,7 +1,7 @@
 #pragma once
 
 #include "resource.h"
-#define GRID_WIDTH 100
+#define GRID_WIDTH 120
 #define SQUARE 1
 #define CIRCLE 2
 #define LINE 3

@@ -7,13 +7,54 @@ C:\mrt\Berkan\VisualStudio\Visual Vitae\Life Graphics.cpp(49,19): warning C4244:
 C:\mrt\Berkan\VisualStudio\Visual Vitae\Life Graphics.cpp(50,19): warning C4244: '=': conversion from 'UINT' to 'FLOAT', possible loss of data
 C:\mrt\Berkan\VisualStudio\Visual Vitae\Life Graphics.cpp(51,22): warning C4244: '=': conversion from 'UINT' to 'FLOAT', possible loss of data
 C:\mrt\Berkan\VisualStudio\Visual Vitae\Life Graphics.cpp(52,22): warning C4244: '=': conversion from 'UINT' to 'FLOAT', possible loss of data
-C:\mrt\Berkan\VisualStudio\Visual Vitae\Life Graphics.cpp(90,8): warning C4244: '=': conversion from 'UINT' to 'float', possible loss of data
-C:\mrt\Berkan\VisualStudio\Visual Vitae\Life Graphics.cpp(96,14): warning C4018: '<=': signed/unsigned mismatch
-C:\mrt\Berkan\VisualStudio\Visual Vitae\Life Graphics.cpp(111,8): warning C4244: '=': conversion from 'UINT' to 'float', possible loss of data
-C:\mrt\Berkan\VisualStudio\Visual Vitae\Life Graphics.cpp(116,14): warning C4018: '<=': signed/unsigned mismatch
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Life Graphics.cpp(90,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Life Graphics.cpp(111,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Visual Vitae.cpp
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(126,1): warning C4996: 'ID2D1Factory::GetDesktopDpi': Deprecated. Use DisplayInformation::LogicalDpi for Windows Store Apps or GetDpiForWindow for desktop apps.
+C:\Windows Kits\10\Include\10.0.18362.0\um\d2d1.h(3355): message : see declaration of 'ID2D1Factory::GetDesktopDpi'
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(322,42): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(328,19): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(339,42): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(345,19): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(441,54): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(447,31): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(458,54): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(464,31): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(501,56): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(507,33): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(518,56): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(524,33): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(715,53): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(721,30): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(732,53): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(738,30): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(757,53): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(763,30): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(774,53): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(780,30): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(802,53): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(808,30): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(819,53): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(825,30): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(852,53): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(858,30): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(869,53): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(875,30): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(893,53): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(899,30): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(910,53): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(916,30): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(934,53): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(940,30): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(951,53): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(957,30): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(975,53): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(981,30): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(992,53): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\mrt\Berkan\VisualStudio\Visual Vitae\Visual Vitae.cpp(998,30): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
   Generating code
-  4 of 50 functions ( 8.0%) were compiled, the rest were copied from previous compilation.
+  13 of 84 functions (15.5%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+    1 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   Visual Vitae.vcxproj -> C:\mrt\Berkan\VisualStudio\Visual Vitae\Release\Visual Vitae.exe
